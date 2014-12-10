@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1418204088 source:c:\users\sully\desktop\juego_piedrapapelotijera_proy2progra3\evento.cpp
+	"Juego.h"
+	<stdio.h>
+
+1418203921 c:\users\sully\desktop\juego_piedrapapelotijera_proy2progra3\juego.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	<fstream>
+	<iostream>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+	<stdio.h>
+
+1415241500 source:c:\users\sully\desktop\juego_piedrapapelotijera_proy2progra3\ganador.cpp
+	"Juego.h"
+
+1418022970 source:c:\users\sully\desktop\juego_piedrapapelotijera_proy2progra3\inicio.cpp
+	"Juego.h"
+
+1417921592 source:c:\users\sully\desktop\juego_piedrapapelotijera_proy2progra3\init_sdl.cpp
+	"Juego.h"
+
+1418215850 source:c:\users\sully\desktop\juego_piedrapapelotijera_proy2progra3\juegomain.cpp
+	"Juego.h"
+	<SDL_mixer.h>
+	<stdio.h>
+
+1418216044 source:c:\users\sully\desktop\juego_piedrapapelotijera_proy2progra3\juegorapido.cpp
+	"Juego.h"
+
+1418216020 source:c:\users\sully\desktop\juego_piedrapapelotijera_proy2progra3\jugar.cpp
+	"Juego.h"
+
+1418185771 source:c:\users\sully\desktop\juego_piedrapapelotijera_proy2progra3\limpiar.cpp
+	"Juego.h"
+
+1418183006 source:c:\users\sully\desktop\juego_piedrapapelotijera_proy2progra3\loadcontenido.cpp
+	"Juego.h"
+
+1418220605 source:c:\users\sully\desktop\juego_piedrapapelotijera_proy2progra3\puntuacion.cpp
+	"Juego.h"
+
+1417923675 c:\users\sully\desktop\juego_piedrapapelotijera_proy2progra3\puntuacion.cpp
+	"Juego.h"
+
+1418216074 source:c:\users\sully\desktop\juego_piedrapapelotijera_proy2progra3\jugar_pptls.cpp
+	"Juego.h"
+
+1418216093 source:c:\users\sully\desktop\juego_piedrapapelotijera_proy2progra3\jugarrapido_pptls.cpp
+	"Juego.h"
+
